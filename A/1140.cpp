@@ -1,12 +1,14 @@
-/*================================================================
-*   Copyright (C) 2019 Max. All rights reserved.
-*   
-*   Filename   ：1084.cpp
-*   Creator    ：Max
-*   Date       ：2019/02/20
-*   Description：
-*
-================================================================*/
+/*
+ * File: 1140.cpp
+ * Project: A
+ * File Created: Friday, 22nd February 2019 12:21:39 pm
+ * Author: max (mx0666@163.com)
+ * -----
+ * Last Modified: Friday, 22nd February 2019 12:21:43 pm
+ * Modified By: max (mx0666@163.com>)
+ * -----
+ * Copyright 2018 - 2019 Your Company
+ */
 
 #include <bits/stdc++.h>
 using namespace std;
