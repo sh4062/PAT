@@ -14,6 +14,9 @@
         "cmath": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "future": "cpp",
+        "system_error": "cpp",
+        "utility": "cpp"
     }
 }
