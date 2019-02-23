@@ -17,6 +17,9 @@
         "*.tcc": "cpp",
         "future": "cpp",
         "system_error": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "type_traits": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
     }
 }
