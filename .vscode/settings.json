@@ -20,6 +20,8 @@
         "utility": "cpp",
         "type_traits": "cpp",
         "typeindex": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "tuple": "cpp",
+        "ratio": "cpp"
     }
 }
