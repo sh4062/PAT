@@ -22,6 +22,9 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "tuple": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp"
     }
 }
