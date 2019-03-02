@@ -13,5 +13,6 @@
 int main(){
 char a = 92;
 char b = 92;
-printf("%c\n",a);
+int arr[] = {0x01020304, 0x41424344};
+printf("%c\n",*(arr+1));
 }
