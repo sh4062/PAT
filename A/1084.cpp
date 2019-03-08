@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-map<char, bool> m1, m2;
+unordered_map<char, bool> m1, m2;
 vector<char> res;
 string a, b;
 int main() {

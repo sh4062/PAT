@@ -6,7 +6,7 @@ struct node
 {
 	int data;
 	int left,right;
-}root[15];
+}root[13];
 struct Node 
 {
 	int data;
